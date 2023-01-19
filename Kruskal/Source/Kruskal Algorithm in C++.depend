@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581147236 source:e:\programming\codeblocks\kruskal algorithm in c++\main.cpp
+	<iostream>
+	<conio.h>
+
